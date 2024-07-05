@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m David, a Senior Developer based in Philadelphia, PA 19143.
+            Hi! I&apos;m David, a Senior Developer based in Philadelphia, PA.
           </p>
 
           <a href="#about">
